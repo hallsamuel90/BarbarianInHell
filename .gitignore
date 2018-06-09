@@ -3,6 +3,7 @@
 ################################################################################
 
 /.vs
+/Debug
 A Barbarian in Hell.vcxproj
 A Barbarian in Hell.vcxproj.filters
 A Barbarian in Hell.sln
