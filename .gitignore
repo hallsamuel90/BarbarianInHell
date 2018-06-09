@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+A Barbarian in Hell.vcxproj
+A Barbarian in Hell.vcxproj.filters
+A Barbarian in Hell.sln
